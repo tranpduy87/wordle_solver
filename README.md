@@ -2,4 +2,4 @@
 NYtimes wordle solver
 
 * Prerequisite:
-** Python 3.*
+- Python 3.*
